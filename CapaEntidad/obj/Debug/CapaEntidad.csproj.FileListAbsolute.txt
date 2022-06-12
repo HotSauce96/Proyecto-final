@@ -1,0 +1,6 @@
+E:\C#\Proyecto final\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\C#\Proyecto final\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\C#\Proyecto final\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\C#\Proyecto final\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\C#\Proyecto final\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\C#\Proyecto final\CapaEntidad\obj\Debug\CapaEntidad.pdb
