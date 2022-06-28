@@ -7,3 +7,12 @@ E:\C#\Proyecto final\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cach
 E:\C#\Proyecto final\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 E:\C#\Proyecto final\CapaDatos\obj\Debug\CapaDatos.dll
 E:\C#\Proyecto final\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\juane\Documents\GitHub\Proyecto-final\CapaDatos\obj\Debug\CapaDatos.pdb
